@@ -1,0 +1,17 @@
+{
+    "editor.fontSize": 12,
+    "editor.lineNumbers": "relative",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "vim.hlsearch": true,
+    "vim.easymotion": true,
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    }
+}
