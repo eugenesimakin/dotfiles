@@ -13,5 +13,6 @@
     "vim.easymotion": true,
     "[java]": {
         "editor.defaultFormatter": "redhat.java"
-    }
+    },
+    "workbench.colorTheme": "Visual Studio Light"
 }
